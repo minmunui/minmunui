@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[이 페이지를 참고해 주세요](https://minmunui.github.io/blog/about)
+[이 페이지를 참고해 주세요](https://minmunui.github.io/blog)
 <!--
 **minmunui/minmunui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
