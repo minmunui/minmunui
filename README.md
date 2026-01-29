@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-[이 페이지를 참고해 주세요](https://minmunui.github.io/blog/info/)
+자세한 소개는 [포트폴리오](https://www.notion.so/minmunui/2f17d2447d018079a6dcc99a4e940d17?source=copy_link)를 참고해 주십시오.
+
+[깃허브 페이지 블로그](https://minmunui.github.io/blog/)
+
 <!--
 **minmunui/minmunui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
